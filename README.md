@@ -1,5 +1,5 @@
 # Laravel Auth Functions Documentation
-# The code for the documentation can be found (here)[]
+# The code for the documentation can be found [here](https://github.com/Jumanazarov-Shukrullo/vk-authorization-api-intern-project-php/blob/main/app/Http/Controllers/AuthController.php)
 This documentation outlines three functions within a Laravel application related to user authentication: `authorize`, `register`, and `feed`.
 
 ## Authorize Function
